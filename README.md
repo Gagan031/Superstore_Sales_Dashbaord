@@ -2,7 +2,7 @@
 
 We have created a dashboard showing break-down analysis of sales in a superstore.
 
-1.	Data Gathered
+Data Gathered :-
 
 1.	Sales (Excel)
 2.	Categories (Excel)
@@ -44,11 +44,10 @@ Calculated a Gross profit MoM growth Change% measure that could benefit us in de
 Task 3.5:
 Calculated a measure for AVG sales per day – this is the average sum of Total Revenue per day based on the Dates of actual Sales.	
 Task 3.7: 
--	Breakdown Analysis by Product (drop or increase)
-Calculate the following time measures:
--	This is QBR Report. So QoQ Growth is required
+Breakdown Analysis by Product (drop or increase)
+This is QTR Report. So QoQ Growth is required
 
-4.	Used the measures and calculations to assemble a sales reports with different visuals to best show the Sales Insights in one page Dashboard.
+4.Used the measures and calculations to assemble a sales reports with different visuals to best show the Sales Insights in one page Dashboard.
 
 
 
